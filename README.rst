@@ -133,4 +133,4 @@ Please visit `hailo.ai <https://hailo.ai/>`_ for support / requests / issues.
 Changelog
 ---------
 
-For further information please see our `CHANGLOG <docs/CHANGELOG.rst>`_ page.
+For further information please see our `CHANGELOG <docs/CHANGELOG.rst>`_ page.
